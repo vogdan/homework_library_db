@@ -1,4 +1,3 @@
-
 import sys
 
 def add_book_interact(db_file):
